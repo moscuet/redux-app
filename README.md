@@ -1,3 +1,3 @@
-# Redux Lesson
+# First Redux App
 
 ## `yarn start`
