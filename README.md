@@ -1,3 +1,2 @@
-# First Redux App
+## First Redux App
 
-## `yarn start`
